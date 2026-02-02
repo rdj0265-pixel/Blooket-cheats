@@ -59,6 +59,6 @@
         }
         getStateNode().setState({ unlocks: { includes: () => !0 } });
     } else {
-        alert("This only works in blooket or blacket.");
+        alert("have fun with all of your blooks ◉‿◉.");
     }
 })();
